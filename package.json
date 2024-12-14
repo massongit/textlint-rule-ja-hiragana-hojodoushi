@@ -17,9 +17,9 @@
     "prepublish": "npm run --if-present build"
   },
   "devDependencies": {
-    "eslint": "^3.17.1",
+    "eslint": "^9.17.0",
     "promised-csv": "^1.0.1",
-    "textlint-scripts": "^1.2.2"
+    "textlint-scripts": "^14.4.0"
   },
   "name": "textlint-rule-ja-hiragana-hojodoushi",
   "directories": {
